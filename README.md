@@ -12,6 +12,7 @@ to suit my own preferences.
 
 * dotted `0` to better distinguish it from `O`
 * curved `l` to better distinguish it from `1`
+* curlier 6x13 curly braces (copied from 7x13)
 
 ## Requirements
 
