@@ -7,6 +7,6 @@ all: 6x13 7x13
 clean:
 	-rm -v *.fon
 
-%.fon: %.fd
+%.fon: src/%.fd
 	mkwinfont $< -o $@
 	chmod +x $@
